@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ruslan Andreyevichhhh
+=======
+Ruslan Andreyev
+>>>>>>> newdev
